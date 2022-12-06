@@ -1,0 +1,9 @@
+[submodule "blender_annotation_tool"]
+	path = blender_annotation_tool
+	url = https://github.com/ABC-iRobotics/blender_annotation_tool
+[submodule "OE_Logo_BAT"]
+	path = OE_Logo_BAT
+	url = https://github.com/ABC-iRobotics/OE_Logo_BAT
+[submodule "real_image_labeling"]
+	path = real_image_labeling
+	url = https://github.com/ABC-iRobotics/real_image_labeling
